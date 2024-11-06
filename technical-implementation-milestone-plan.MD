@@ -48,14 +48,14 @@ Timeline: Q2 2025
 The objective of this milestone is to improve the interpretation of marine records in GBIF and evaluate the integration of marine data discovery through [Marine Regions](https://www.marineregions.org/).
 
 
-## Milestone 3 New Data Model - Event Core - PoF
+## Milestone 4 New Data Model - Event Core - PoF
 
 Timeline: Q3 2025
 
 This milestone aims to assess the benefits of using a more expressive data model for publishing marine data. Additionally, the representation of records published as Event Core should be improved in the GBIF Data Platform.
 
 
-## Milestone 4 DOI tracking - EBVs - Environment Flags
+## Milestone 5 DOI tracking - EBVs - Environment Flags
 
 Timeline: Q4 2025
 
