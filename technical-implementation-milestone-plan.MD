@@ -14,7 +14,7 @@ The general activities detailed were initially outlined in  the [Action Plan on 
 
 # Milestones plan
 
-The proposed plan is organized under quarterly milestones, at the end of each quarter a set of deliverables. The plan has been designed to develop fundamental services and activities first and then later in the process deliver artifacts based on developed services. Additionally, this plan takes an opportunistic approach of the the already existing plans of both organizations with the intention of maximizing available resources and
+The proposed plan is organized under quarterly milestones, at the end of each quarter a set of deliverables. The plan has been designed to develop fundamental services and activities first and then later in the process deliver artifacts based on developed services. Additionally, this plan takes an opportunistic approach of the the already existing plans of both organizations with the intention of maximizing available resources.
 
 
 ## Milestone 1 Initial taxonomy, traits and data publication alignment  
